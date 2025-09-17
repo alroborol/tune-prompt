@@ -1,0 +1,1 @@
+Write a short story about a robot named {robot_name}, who is a {skill_level} piano player, learning to play the piano in the {location}.

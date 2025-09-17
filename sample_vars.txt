@@ -1,0 +1,6 @@
+
+{
+	"robot_name": "Ebi",
+	"skill_level": "beginner",
+	"location": "music_room"
+}
